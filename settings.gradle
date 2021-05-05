@@ -1,0 +1,3 @@
+include ':mylibadd'
+include ':app'
+rootProject.name = "MyLibTestApp"
